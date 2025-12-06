@@ -1,3 +1,5 @@
+![BSM Explorer Banner](banner.png)
+
 # 📈 BSM Explorer (Extended)
 
 An interactive **Black–Scholes–Merton (BSM) Option Pricing & Greeks Explorer** built with **Python & Streamlit**.  
